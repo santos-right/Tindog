@@ -177,7 +177,7 @@ p {
     }
 
     .nav-button {
-        font-size: 1rem;
+        font-size: 2rem;
     }
 
     .nav-link {
@@ -202,10 +202,6 @@ p {
         transform: rotate(0);
     }
 
-    .icon {
-        font-size: 1.5rem;
-    }
-
     .feature-title {
         font-size: 2rem;
     }
@@ -222,6 +218,14 @@ p {
 
     #footer {
         text-align: center;
+    }
+
+    .footer-icon {
+        font-size: 1rem;
+    }
+
+    .copy-right {
+        font-size: 1rem;
     }
 
     .icon-row {
