@@ -171,6 +171,28 @@ p {
 
 
 @media(max-width:1028px) {
+    .navbar-brand {
+        font-size: 3.5rem;
+        font-weight: bold;
+    }
+
+    .nav-button {
+        font-size: 1rem;
+    }
+
+    .nav-link {
+        font-size: 2rem;
+    }
+
+    .title-heading {
+        font-size: 4rem;
+        line-height: 1.5;
+    }
+
+    .download-button {
+        font-size: 2rem;
+    }
+
     #title {
         text-align: center;
     }
@@ -178,6 +200,18 @@ p {
     .title-image {
         position: static;
         transform: rotate(0);
+    }
+
+    .icon {
+        font-size: 1.5rem;
+    }
+
+    .feature-title {
+        font-size: 2rem;
+    }
+
+    p {
+        font-size: 1.7rem;
     }
 
     #cta {
