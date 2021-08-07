@@ -169,6 +169,10 @@ p {
     font-size: 1rem;   
 }
 
+.love {
+    color: #ff0000;
+}
+
 
 
 @media(max-width:1028px) {
